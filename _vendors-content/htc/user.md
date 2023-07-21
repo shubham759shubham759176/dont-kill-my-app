@@ -1,6 +1,7 @@
----
+---v h uic
+gg
 manufacturer:
-    - htc
+    -infinix hot10s
 
 ---
 
